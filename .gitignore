@@ -1,0 +1,13 @@
+# junk
+.DS_Store
+*.log
+*.log.*
+
+# references
+**/__deprecated__/**
+
+# build
+/target
+
+# secrets
+.env
